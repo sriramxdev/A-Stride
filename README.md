@@ -31,7 +31,6 @@ The underlying algorithm was validated on a known course:
 ## 🚀 Roadmap
 - [ ] **v0.2.0:** Implementation of a **Foreground Service** for persistent background tracking.
 - [ ] **v0.3.0:** **Room Database** integration for encrypted local history.
-- [ ] **v0.4.0:** ML-based dynamic stride calibration based on walking cadence.
 
 ## 📥 Installation
 You can find the latest pre-release builds in the [Releases](https://github.com/YOUR_GITHUB_USERNAME/A-Stride/releases) section. 
