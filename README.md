@@ -33,7 +33,7 @@ The underlying algorithm was validated on a known course:
 - [ ] **v0.3.0:** **Room Database** integration for encrypted local history.
 
 ## 📥 Installation
-You can find the latest pre-release builds in the [Releases](https://github.com/YOUR_GITHUB_USERNAME/A-Stride/releases) section. 
+You can find the latest pre-release builds in the [Releases](https://github.com/sriramxdev/A-Stride/releases) section. 
 
 *Note: Ensure you grant the **Physical Activity** permission upon first launch.*
 
