@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="A-Stride icon.png" width="128" height="128" style="border-radius: 25%;">
+  <img src="A-Stride-icon.png" width="128" height="128" style="border-radius: 25%;">
   <h1>A Stride</h1>
   <p><b>A high-performance, privacy-focused pedometer engine for Android.</b></p>
 </div>
